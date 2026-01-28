@@ -1,33 +1,33 @@
 # test
 
-このリポジトリは、テスト用のリポジトリです。
+This is a repository for testing purposes.
 
-## 概要
+## Overview
 
-このリポジトリは、様々な機能のテストや実験を行うために作成されました。
-開発環境の構築やツールの動作確認などに使用することができます。
+This repository was created to test and experiment with various features.
+It can be used for setting up development environments and verifying tool operations.
 
-## 目的
+## Purpose
 
-- 新しい技術やツールの検証
-- 開発環境のテスト
-- GitHubの機能の確認
-- その他、実験的な試みの場として活用
+- Validation of new technologies and tools
+- Testing development environments
+- Verifying GitHub features
+- Utilizing as a space for other experimental attempts
 
-## 使い方
+## Usage
 
-このリポジトリは自由に使用していただけます。
-必要に応じて、ファイルの追加や変更を行ってください。
+This repository is free to use.
+Feel free to add or modify files as needed.
 
-## ライセンス
+## License
 
-特に指定がない限り、自由に使用していただけます。
+Unless otherwise specified, this repository is free to use.
 
-## 貢献
+## Contributing
 
-このリポジトリへの貢献を歓迎いたします。
-Issueやプルリクエストをお気軽にお送りください。
+Contributions to this repository are welcome.
+Please feel free to submit issues or pull requests.
 
 ---
 
-ご質問やご提案がございましたら、お気軽にお知らせください。
+If you have any questions or suggestions, please don't hesitate to let us know.
